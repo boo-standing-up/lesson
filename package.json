@@ -1,0 +1,11 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/boo-standing-up/lesson.git",
+  "author": "ユーザー名boo",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "3.5.0"
+  }
+}
