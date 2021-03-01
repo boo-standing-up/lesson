@@ -5,6 +5,9 @@
   "repository": "https://github.com/boo-standing-up/lesson.git",
   "author": "ユーザー名boo",
   "license": "MIT",
+  "scripts": {
+    "build:css": "sass style.scss:style.css"
+  },
   "dependencies": {
     "jquery": "3.5.0",
     "sass": "^1.32.8"
